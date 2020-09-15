@@ -1,4 +1,6 @@
-> :rocket: A simple project made to save e-mails for a newsletter, using [Next.js](https://nextjs.org/) and storing data in [Google Spreadsheets](https://docs.google.com/spreadsheets/u/0/). I used this project for study Typescript, Next.js, [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) package and the [Vercel](https://vercel.com) deploy.
+# :rocket: A simple project made to save e-mails for a newsletter, using [Next.js](https://nextjs.org/) and storing data in [Google Spreadsheets](https://docs.google.com/spreadsheets/u/0/).
+
+> I used this project for study Typescript, Next.js, [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) package and the [Vercel](https://vercel.com) deploy.
 
 ## Web Screenshot
 
