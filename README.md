@@ -1,18 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+> :rocket: A simple project made to save e-mails for a newsletter, using [Next.js](https://nextjs.org/) and storing data in [Google Spreadsheets](https://docs.google.com/spreadsheets/u/0/). I used this project for study Typescript, Next.js, [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) package and the [Vercel](https://vercel.com) deploy.
 
-## Getting Started
+## Web Screenshot
 
-First, run the development server:
+<div>
+  <img src="./.github/web-preview.png" width="400">
+  <img src="./.github/thanks-preview.png" width="400">
+</div>
+
+# :eyes: Demo Website
+
+You can access the website at:
+👉 demo: https://newsletter-next.jpc0rrea.vercel.app/
+
+# :computer: Technologies
+
+This project was made using the follow technologies:
+
+- [Typescript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [google-spreadsheet package](https://www.npmjs.com/package/google-spreadsheet)
+- [styled-components](https://styled-components.com/)
+
+# :construction_worker: How to run
 
 ```bash
+# Clone Repository
+$ git clone https://github.com/jpc0rrea/newsletter-googlespreadsheets-nextjs.git
+```
+
+### 💻 Run Web Project
+
+```bash
+# Install Dependencies
+yarn
+# or
+npm install
+
+# run aplication
 npm run dev
 # or
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ## Learn More
 

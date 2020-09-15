@@ -9,6 +9,8 @@ export const Container = styled.div`
   align-items: center;
   justify-content: center;
 
+  margin-top: 1.2rem;
+
   h1 {
     font-size: 4.4rem;
     color: ${props => props.theme.colors.primary};
@@ -19,6 +21,9 @@ export const Container = styled.div`
   img {
     border-radius: 50%;
     height: 30%;
+    min-height: 16px;
+
+    margin-top: 1.2rem;
   }
 
   p {
